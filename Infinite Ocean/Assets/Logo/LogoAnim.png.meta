@@ -1,0 +1,497 @@
+fileFormatVersion: 2
+guid: af2d53e94205ca64e808c0e2b4c26480
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7536100840514189493
+    second: LogoAnim_0
+  - first:
+      213: 1514980548348734936
+    second: LogoAnim_1
+  - first:
+      213: 5812068978602465163
+    second: LogoAnim_2
+  - first:
+      213: -6781402183621257013
+    second: LogoAnim_3
+  - first:
+      213: -1404271271724719874
+    second: LogoAnim_4
+  - first:
+      213: -1829706989248467824
+    second: LogoAnim_5
+  - first:
+      213: -6816905812511859896
+    second: LogoAnim_6
+  - first:
+      213: 7796724009245373981
+    second: LogoAnim_7
+  - first:
+      213: 2577298031232134055
+    second: LogoAnim_8
+  - first:
+      213: -7555143847078342197
+    second: LogoAnim_9
+  - first:
+      213: -6671701926173669503
+    second: LogoAnim_10
+  - first:
+      213: -6898417713193975541
+    second: LogoAnim_11
+  - first:
+      213: 3389316424322956
+    second: LogoAnim_12
+  - first:
+      213: 4522634337163856014
+    second: LogoAnim_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LogoAnim_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 9
+        width: 35
+        height: 13
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8fe5659cb959860800000000000000
+      internalID: 7536100840514189493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnim_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 9
+        width: 29
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5180985, y: 0.5047278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dde3f138ca460510800000000000000
+      internalID: 1514980548348734936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnim_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 9
+        width: 27
+        height: 13
+      alignment: 9
+      pivot: {x: 0.48015678, y: 0.50294423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87daaf31fd98a050800000000000000
+      internalID: 5812068978602465163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnim_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 9
+        width: 27
+        height: 13
+      alignment: 9
+      pivot: {x: 0.48096156, y: 0.5060836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc85236b4ae93e1a0800000000000000
+      internalID: -6781402183621257013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnim_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 9
+        width: 27
+        height: 13
+      alignment: 9
+      pivot: {x: 0.48280844, y: 0.50032276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0ef80f7b6038ce0800000000000000
+      internalID: -1404271271724719874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnim_5
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 9
+        width: 31
+        height: 13
+      alignment: 9
+      pivot: {x: 0.4175789, y: 0.5019421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cabceff239b96e0800000000000000
+      internalID: -1829706989248467824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnim_6
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 5
+        width: 47
+        height: 17
+      alignment: 9
+      pivot: {x: 0.51169926, y: 0.61591166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b5fe1f74c7561a0800000000000000
+      internalID: -6816905812511859896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnim_7
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 0
+        width: 47
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5102682, y: 0.7016504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1674d67d27833c60800000000000000
+      internalID: 7796724009245373981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnim_8
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 5
+        width: 47
+        height: 17
+      alignment: 9
+      pivot: {x: 0.552724, y: 0.61627364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aba7ef77e664c320800000000000000
+      internalID: 2577298031232134055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnim_9
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 9
+        width: 42
+        height: 19
+      alignment: 9
+      pivot: {x: 0.49963087, y: 0.3380124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1daef23bcb62790800000000000000
+      internalID: -7555143847078342197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnim_10
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 9
+        width: 42
+        height: 21
+      alignment: 9
+      pivot: {x: 0.502174, y: 0.3059987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1870123427a5963a0800000000000000
+      internalID: -6671701926173669503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnim_11
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 9
+        width: 42
+        height: 23
+      alignment: 9
+      pivot: {x: 0.49820092, y: 0.28352502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b018fc4a3a5e340a0800000000000000
+      internalID: -6898417713193975541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnim_12
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 9
+        width: 42
+        height: 23
+      alignment: 9
+      pivot: {x: 0.50138634, y: 0.28301704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fc089b09a0c0000800000000000000
+      internalID: 3389316424322956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnim_13
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 9
+        width: 45
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5333089, y: 0.281786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88c2abb7ff93ce30800000000000000
+      internalID: 4522634337163856014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LogoAnim_0: 7536100840514189493
+      LogoAnim_1: 1514980548348734936
+      LogoAnim_10: -6671701926173669503
+      LogoAnim_11: -6898417713193975541
+      LogoAnim_12: 3389316424322956
+      LogoAnim_13: 4522634337163856014
+      LogoAnim_2: 5812068978602465163
+      LogoAnim_3: -6781402183621257013
+      LogoAnim_4: -1404271271724719874
+      LogoAnim_5: -1829706989248467824
+      LogoAnim_6: -6816905812511859896
+      LogoAnim_7: 7796724009245373981
+      LogoAnim_8: 2577298031232134055
+      LogoAnim_9: -7555143847078342197
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
